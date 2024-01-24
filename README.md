@@ -15,6 +15,6 @@ Utilizing the "Centar_cleaned" dataset, which includes various environmental met
   2. **Model Training:** Training several models and comparing their performances to select the best one.
   
   3. **Hyperparameter Optimization Techniques:** Applying various hyperparameter optimization techniques (Grid Search CV, Random Search CV, Bayesian Optimization, Genetic Algorithm, TPOT Classifier) to fine-tune the best model.
-  4. 
+     
 ## Project Preview :
 <img src="Images/Do not reject H0.png">
