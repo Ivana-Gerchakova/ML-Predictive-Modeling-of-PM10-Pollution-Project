@@ -17,20 +17,21 @@ Utilizing the "Centar_cleaned" dataset, which includes various environmental met
   3. **Hyperparameter Optimization Techniques:** Applying various hyperparameter optimization techniques (Grid Search CV, Random Search CV, Bayesian Optimization, Genetic Algorithm, TPOT Classifier) to fine-tune the best model.
      
 ## Project Preview :
+## Summary:
 GRID SEARCH CV FOR DECISION TREE, RANDOM FOREST, SVR AND KNN REGRESSION MODELS WITH PIPLINES.
-<img src="Images/Do not reject H0.png">
+<img src="Images/Untitled1.png">
 
 RANDOM SEARCH CV FOR DECISION TREE, RANDOM FOREST, SVR AND KNN REGRESSION MODELS WITH PIPLINES.
-<img src="Images/Do not reject H0.png">
+<img src="Images/Untitled2.png">
 
 BAYESIAN OPTIMIZATION FOR DECISION TREE, RANDOM FOREST , SVR AND KNN REGRESSION MODELS WITH BAYES_OPT.
-<img src="Images/Do not reject H0.png">
+<img src="Images/Untitled3.png">
 
 BAYESIAN OPTIMIZATION FOR DECISION TREE, RANDOM FOREST ,SVR AND KNN REGRESSION MODELS WITH HYPEROPT.
-<img src="Images/Do not reject H0.png">
+<img src="Images/Untitled4.png">
 
 GENETIC ALGORITHM OPTIMIZATION FOR DECISION TREE, RANDOM FOREST, SVR AND KNN REGRESSSION MODELS.
-<img src="Images/Do not reject H0.png">
+<img src="Images/Untitled5.png">
 
 TPOT Classifier
-<img src="Images/Do not reject H0.png">
+<img src="Images/Untitled5.png">
