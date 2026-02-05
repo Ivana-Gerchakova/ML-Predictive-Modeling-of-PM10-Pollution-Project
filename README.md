@@ -1,5 +1,5 @@
 # Project Title :
-Machine Learning-Predictive-Modeling-of-PM10-Pollution-Project.
+Machine Learning-Predictive-Modeling-of-PM10-Pollution-Project. 
 
 ## Project Overview :
 In response to the pervasive issue of poor air quality in Skopje, this project focuses on predicting PM10 particle levels in the Centar location. 
